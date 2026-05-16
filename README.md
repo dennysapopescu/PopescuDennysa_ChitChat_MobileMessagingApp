@@ -23,8 +23,9 @@ ChitChat is a mobile application built using Flutter and Firebase. This guide wi
 
 ### Step 3: Clone the Source Code Repository
 1. Open your terminal.
-2. Clone the application repository using the following command:  git clone https://github.com/dennysapopescu/PopescuDennysa_Licenta.git
-3. Navigate into the project folder.
+2. Clone the application repository using the following command:
+                                          git clone https://github.com/dennysapopescu/PopescuDennysa_ChitChat_MobileMessagingApp.git
+4. Navigate into the project folder.
 
 ### Step 4: Install Dependencies
 Once Flutter and Dart are correctly installed and configured, open the terminal in the project root directory and run:  flutter pub get
